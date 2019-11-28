@@ -1,6 +1,7 @@
 # People-Analytic
 
  Materiais Complementares
+ 
 [ARTIGO] [5 cases de sucesso de people analytics para se inspirar](https://www.gupy.io/blog/cases-de-sucesso-people-analytics)
 
 [ARTIGO] [Great managers still matter: the evolution of Google’s Project Oxygen](https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/)
