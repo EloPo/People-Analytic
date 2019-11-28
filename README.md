@@ -42,21 +42,21 @@
 
 [Artigo] [People Analytics and AI in the Workplace: Four Dimensions of Trust](https://joshbersin.com/2019/05/the-ethics-of-ai-and-people-analytics-four-dimensions-of-trust/)
 
-[Relatório] 2017 Global Human Capital Trends(https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html)
+[Relatório] [2017 Global Human Capital Trends](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html)
 
-[Artigo] People analytics: gaining speed(https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2016/people-analytics-in-hr-analytics-teams.html)
+[Artigo] [People analytics: gaining speed](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2016/people-analytics-in-hr-analytics-teams.html)
 
-[Artigo] People Analytics: The New HR Imperative(https://www.talentlyft.com/en/blog/article/326/people-analytics-the-new-hr-imperative)
+[Artigo] [People Analytics: The New HR Imperative](https://www.talentlyft.com/en/blog/article/326/people-analytics-the-new-hr-imperative)
 
-[Pesquisa] People analytics: driving business performance with people data(https://www.cipd.co.uk/knowledge/strategy/analytics/people-data-driving-performance)
+[Pesquisa] [People analytics: driving business performance with people data](https://www.cipd.co.uk/knowledge/strategy/analytics/people-data-driving-performance)
 
-[Artigo] O que é People Analytics: a tendência revolucionária da gestão de RH(https://www.gupy.io/blog/people-analytics)
+[Artigo] [O que é People Analytics: a tendência revolucionária da gestão de RH](https://www.gupy.io/blog/people-analytics)
 
-[Livro] The Basic Principles of People Analytics: Learn how to use HR data to drive better outcomes for your business and employees(https://www.amazon.com/Basic-Principles-People-Analytics-employees/dp/1541148398)
+[Livro] [The Basic Principles of People Analytics: Learn how to use HR data to drive better outcomes for your business and employees](https://www.amazon.com/Basic-Principles-People-Analytics-employees/dp/1541148398)
 
-[Artigo] 5 Reasons Why HR Analytics Projects Fail(https://www.analyticsinhr.com/blog/reasons-hr-analytics-projects-fail/)
+[Artigo] [5 Reasons Why HR Analytics Projects Fail](https://www.analyticsinhr.com/blog/reasons-hr-analytics-projects-fail/)
 
-[Artigo] Six must-have competencies in a world-class analytics team(https://mortenkamp.com/2016/06/06/six-must-have-competencies-in-a-world-class-analytics-team/)
+[Artigo] [Six must-have competencies in a world-class analytics team](https://mortenkamp.com/2016/06/06/six-must-have-competencies-in-a-world-class-analytics-team/)
 
 [Artigo] The 10 golden rules of HR analytics (crowd version)
 
